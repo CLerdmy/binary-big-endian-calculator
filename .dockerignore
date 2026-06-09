@@ -1,0 +1,8 @@
+.git/
+.gitignore
+
+*.md
+!task1.md
+scripts/
+data/
+.dockerignore
