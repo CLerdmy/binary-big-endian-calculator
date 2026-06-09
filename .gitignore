@@ -1,3 +1,4 @@
 data/*.bin
 data/*.json
 scripts/*.py
+scripts/*.sh
