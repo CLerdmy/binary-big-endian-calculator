@@ -94,7 +94,7 @@ def calculate(file_path: str) -> tuple[int, int, int]:
 def main():
     # hint
     if len(sys.argv) != 2:
-        print("Usage: python3 calc_data2.py <path_to_file>", file=sys.stderr)
+        print("Usage: python3 calc_data.py <path_to_file>", file=sys.stderr)
         sys.exit(1)
 
     file_path = sys.argv[1]
